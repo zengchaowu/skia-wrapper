@@ -1,1 +1,1 @@
-emcc src/hello.c -o dist/hello.js
+emcc src/hello.c -o dist/hello.html
